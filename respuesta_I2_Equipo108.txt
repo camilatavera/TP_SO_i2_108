@@ -1,0 +1,30 @@
+
+c) Puede hacerlo sincronizando su repositorio local con el repositorio remoto ALFA
+
+d)Si, se pierden?????
+
+e) 
+
+(Camila Tavera)
+crea repositorio remoto desde github y archivo fork.txt
+
+(nico_
+
+(Camila Tavera)
+mkdir TP_GITHUB_2
+cd TP_GITHUB_2
+git clone "https://github.com/camilatavera/TP_SO_i2_108.git"
+git init
+vim NuevoDato.txt
+git add .
+git commit -m "paso 4"
+git push origin master
+
+
+(nico)
+
+
+(camila) : comando para aceptar el pull request y creo este vim
+
+
+
