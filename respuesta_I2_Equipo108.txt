@@ -1,16 +1,35 @@
+a)
+- git remote add upstream https://github.com/camilatavera/TP_SO_i2_108.git
+- git fetch upstream
+- git rebase upstream/master
+
+b) Puede hacerlo sincronizando su repositorio local con el repositorio remoto GAMMA
 
 c) Puede hacerlo sincronizando su repositorio local con el repositorio remoto ALFA
 
-d)Si, se pierden?????
+d) Si
 
 e) 
 
-(Camila Tavera)
+BETA(Camila Tavera):
 crea repositorio remoto desde github y archivo fork.txt
 
-(nico_
 
-(Camila Tavera)
+ALFA(Nicolas Scrofani):
+- hace el branch 
+
+- git clone 
+
+- hace los cambios
+
+- git add . 
+- git commit -m ""
+- git push
+
+-envia pull request 
+
+
+BETA(Camila Tavera):
 mkdir TP_GITHUB_2
 cd TP_GITHUB_2
 git clone "https://github.com/camilatavera/TP_SO_i2_108.git"
@@ -21,10 +40,15 @@ git commit -m "paso 4"
 git push origin master
 
 
-(nico)
+ALFA(Nicolas Scrofani):
+- git remote add upstream https://github.com/camilatavera/TP_SO_i2_108.git
+- git fetch upstream
+- git rebase upstream/master
+- git push -f origin master
 
 
-(camila) : comando para aceptar el pull request y creo este vim
+BETA(Camila Tavera):
+comando para aceptar el pull request y creo este vim
 
 
 
