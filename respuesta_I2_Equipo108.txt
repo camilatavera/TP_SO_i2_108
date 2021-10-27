@@ -48,7 +48,10 @@ ALFA(Nicolas Scrofani):
 
 
 BETA(Camila Tavera):
-comando para aceptar el pull request y creo este vim
+Merge pull request desde github
+git pull origin master
+
+
 
 
 
